@@ -1,0 +1,61 @@
+0	500	simplernn	combined	swap	10	18.75
+0	500	simplernn	combined	swap	10	18.75
+0	charcnn	combined	remove	10	62.81
+0	charcnn	combined	remove	10	62.81
+0	charcnn	combined	remove	10	62.81
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	63.28
+0	charcnn	combined	remove	10	45.31
+0	charcnn	combined	remove	10	45.31
+0	charcnn	combined	remove	10	45.31
+0	charcnn	combined	remove	10	45.31
+0	charcnn	combined	remove	10	45.31
+0	500	simplernn	combined	swap	10	48.44
+0	500	simplernn	combined	swap	10	49.41
+0	charcnn	combined	remove	10	61.52
+0	charcnn	combined	remove	10	60.74
+0	charcnn	combined	remove	10	66.60
+0	charcnn	combined	remove	10	63.67
+0	charcnn	combined	remove	10	66.89
+0	charcnn	combined	remove	10	77.54
+0	charcnn	combined	remove	10	22.85
+0	charcnn	combined	remove	10	17.48
+0	charcnn	combined	remove	10	17.48
+0	charcnn	combined	remove	10	17.48
+0	charcnn	combined	remove	10	33.98
+0	charcnn	combined	remove	10	92.40
+0	charcnn	combined	remove	10	92.40
+0	charcnn	combined	remove	10	81.69
+0	charcnn	combined	remove	10	85.50
+0	charcnn	combined	remove	10	82.79
+0	charcnn	combined	remove	10	90.09
+0	charcnn	combined	remove	10	86.77
+0	500	simplernn	combined	reandsw	10	71.32
+0	500	simplernn	combined	reandsw	10	72.08
+0	500	simplernn	combined	reandsw	10	72.08
+0	500	simplernn	combined	reandsw	10	72.08
+0	500	simplernn	combined	reandsw	10	79.91
+0	500	simplernn	combined	reandsw	10	79.50
+0	500	simplernn	combined	alltrans	10	77.98
+0	500	simplernn	combined	alltrans	10	49.91
+0	500	simplernn	combined	alltrans	10	48.88
+0	500	simplernn	combined	alltrans	10	14.94
+0	500	simplernn	combined	alltrans	10	49.91
+0	500	simplernn	combined	alltrans	10	77.01
+0	500	simplernn	combined	alltrans	10	76.92
+0	500	simplernn	combined	alltrans	10	50.13
+0	500	simplernn	combined	alltrans	10	67.82
+0	500	simplernn	combined	alltrans	10	71.64
+0	500	simplernn	combined	alltrans	10	72.80
+0	500	simplernn	combined	alltrans	10	70.61
+0	500	simplernn	combined	alltrans	10	100.00
+0	500	simplernn	combined	alltrans	10	62.84
+0	500	simplernn	combined	alltrans	10	25.71
+0	500	simplernn	combined	alltrans	10	49.28
+0	500	simplernn	combined	alltrans	10	58.32
+0	500	simplernn	combined	alltrans	10	57.23
+0	500	simplernn	combined	alltrans	10	70.00
